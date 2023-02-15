@@ -1,1 +1,4 @@
-Chicken Strips
+
+# References
+
+* octocat 1 😈
